@@ -2,6 +2,8 @@
 
 """module multipli contenant la fonction table"""
 
+import os # importation module os
+
 nb = input("Saisir la table de multiplication choisie : ")
 nb = int(nb)
 
@@ -15,3 +17,9 @@ def table(nb, max):
     while i < max:
         print(i + 1, "*", nb, "=", (i + 1) * nb)
         i += 1
+		
+# test de la fonction table directement.
+
+if __name__ == "__main__":
+	table(nb, max)
+	os.system("pause") # demande au programme de ne pas se fermer automatiquement.
