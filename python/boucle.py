@@ -1,4 +1,4 @@
-# calculer la table de multiplication par 7
+# calculer la table de multiplication
 
 nb = input("Merci de saisir par un chiffre, la table de multiplication que vous voulez calculer : ")
 # formulaire 
