@@ -1,3 +1,6 @@
+
+# -*-coding:Latin-1 -*
+
 # programme déterminant si une année est bissextile ou non
 
 
