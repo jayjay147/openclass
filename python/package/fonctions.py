@@ -1,4 +1,4 @@
-# -*-coding:Latin-1 -*
+# -*-coding:utf-8 -*
 
 # Apprentissage fonctions - reprise exercice sur la table de multiplication
 

@@ -1,3 +1,4 @@
+# -*-coding:utf-8 -*
 # calculer la table de multiplication
 
 nb = input("Merci de saisir par un chiffre, la table de multiplication que vous voulez calculer : ")

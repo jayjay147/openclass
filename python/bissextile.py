@@ -1,5 +1,5 @@
 
-# -*-coding:Latin-1 -*
+# -*-coding:utf-8 -*
 
 # programme déterminant si une année est bissextile ou non
 
